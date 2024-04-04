@@ -1,10 +1,12 @@
 <!-- .slide: data-background="assets/backdrop.webp" class="dark no-logo" -->
 
-# MICOM Intro
+# A meet and greet with MICOM
 
 ### Christian Diener
 
 <img src="assets/meduni/logo_slogan_dark.png" width="30%">
+
+Slides: https://dienerlab.github.io/2024_micom_intro
 
 <br><br>
 <div class="footer">
