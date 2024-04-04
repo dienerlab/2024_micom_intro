@@ -183,7 +183,7 @@ Environmental media: https://github.com/micom-dev/media
 **Checking for probiotic engraftment and impact.**<br>
 We will simulate an incoming <i>B. animalis</i> for a healthy sample from the iHMP project.
 
-Notebook:
+Notebook: https://colab.research.google.com/github/dienerlab/2024_micom_intro/blob/main/micom.ipynb
 <br>(you will need a Google Account)
 
 ---
