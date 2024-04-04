@@ -44,12 +44,14 @@ video courtesy of [S. Nayyak](https://twitter.com/Na_y_ak) and [J. Iwasa](https:
 
 ---
 
+<!-- .slide: data-background="var(--primary)" class="dark" -->
+
 ### Why fluxes?
 
 The following are all questions about *fluxes*, not *concentrations*:
 
 - How much butyrate is produced by a particular microbiota?
-- How much fiber is broken down by *Bacteroides* in this sample?
+- How much fiber is broken down by <i>Bacteroides</i> in this sample?
 - How fast does this pathogen grow? (note that growth rates are also fluxes)
 
 ---
@@ -179,7 +181,7 @@ Environmental media: https://github.com/micom-dev/media
 ## Practical and FAQ
 
 **Checking for probiotic engraftment and impact.**<br>
-We will simulate an incoming *B. lactis* for a healthy sample from the iHMP project.
+We will simulate an incoming <i>B. animalis</i> for a healthy sample from the iHMP project.
 
 Notebook:
 <br>(you will need a Google Account)
