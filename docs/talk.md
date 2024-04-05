@@ -74,6 +74,12 @@ The following are all questions about *fluxes*, not *concentrations*:
 
 ---
 
+## Still not unique
+
+<img src="assets/reduction.png" width="100%">
+
+---
+
 ## Genome-scale metabolic models - pretty well-behaved
 
 <img src="assets/gsmm.webp" width="100%">
@@ -84,12 +90,6 @@ Schuetz et al. 2012, https://doi.org/10.1126/science.1216882<br>
 Harcombe et al. 2013, https://doi.org/10.1371/journal.pcbi.1003091
 
 </div>
-
----
-
-## Still not unique
-
-<img src="assets/reduction.png" width="100%">
 
 ---
 
